@@ -46,7 +46,7 @@ class Test_sample:
         g = 'soma'
         assert f == g
 
-    def test_logi2(self):
+    def test_login2(self):
         a = 10
         b = 20
         assert a == b
