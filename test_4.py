@@ -10,3 +10,7 @@ class TestAddition :
     def test_div(self):
         a = 10/2
         print(a)
+
+    def test_unit_test_case(self):
+        print('unit test cases added into')
+        assert True 
